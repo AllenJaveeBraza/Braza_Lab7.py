@@ -41,7 +41,7 @@ elif float(Final_Grade)==95 or float(Final_Grade)>=93:
 elif float(Final_Grade)==92 or float(Final_Grade)>=90:
     print(f"You have a Very Good performance. \nYour Grade is {Final_Grade}.")
     
-elif float(Final_Grade)==87 or float(Final_Grade)>=89:
+elif float(Final_Grade)==89 or float(Final_Grade)>=87:
     print(f"You have a Good performance. \nYour Grade is {Final_Grade}.")
     
 elif float(Final_Grade)==86 or float(Final_Grade)>=84:
@@ -57,7 +57,7 @@ elif float(Final_Grade)==77 or float(Final_Grade)>=75:
     print(f"You have Passed. \nYour Grade is {Final_Grade}.")
 
 else:
-    print(f"You have Failed. \nYour Grade is {Final_Grade}.")
+    print(f"Unfortunately, you have Failed. \nYour Grade is {Final_Grade}.")
     
 
 
